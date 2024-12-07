@@ -21,3 +21,18 @@
 >Network Security: Developed an understanding of network security practices, using VLANs to isolate devices and control traffic flow for enhanced protection.
 
 >Scalability and Network Planning: Designed the network with scalability in mind, ensuring the ability to add more devices or VLANs in the future without compromising security or performance.
+
+
+## Steps 
+
+Installed new switch and connected pc1,pc2, server and 2 ps5.
+
+<a href="https://imgur.com/Y7Y0mDl"><img src="https://i.imgur.com/Y7Y0mDll.jpg" title="source: imgur.com" /></a>
+
+Downloaded and installed switch manager 
+
+<a href="https://imgur.com/Gsx9Jsb"><img src="https://i.imgur.com/Gsx9Jsbl.png" title="source: imgur.com" /></a>
+
+configured 2 vlans - one is 2 pcs and a server and the other is 2 ps5 both using port 8 as a trunk port
+
+<a href="https://imgur.com/cRF2eqN"><img src="https://i.imgur.com/cRF2eqNl.png" title="source: imgur.com" /></a>
